@@ -4,7 +4,7 @@ Location: Bay Area, CA USA
 Summary: Aspiring Data Analyst in data analysis, creating data models, and visualizations. Passionate about transforming data into actionable insights and leveraging machine learning to solve real-world problems.
 
 ## ⚡️ A Few Quick Facts
-### 🔭 Currently working as an Data Science intern at Wild Genomics
+#### 🔭 Currently working as an Data Science intern at Wild Genomics
 ### 📊 Experienced in Data Analytics, Machine Learning, and Data Visualization.
 ### 🖼 Expertise in Dash Framework, Plotly, Python, SQL, and more.
 ### 👩‍🏫 Co-founded INKeducation, creating STEM curricula with a focus on AI and Web Development.
