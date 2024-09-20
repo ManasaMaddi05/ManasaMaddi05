@@ -14,8 +14,8 @@ Summary: Aspiring Data Analyst in data analysis, creating data models, and visua
 
 ## 🎉 Fun Facts
 #### 💬 Ask me about: Data Science, Machine Learning, Python, and AI.
-🎉 Fun-Fact: I’m passionate about AI model design and love creating interactive prototypes in Figma for data-driven applications.
-👯 Looking to collaborate on data science projects that involve predictive modeling, data visualization, and AI-driven insights.
+#### 🎉 Fun-Fact: I’m passionate about AI model design and love creating interactive prototypes in Figma for data-driven applications.
+#### 👯 Looking to collaborate on data science projects that involve predictive modeling, data visualization, and AI-driven insights.
 
 
 
