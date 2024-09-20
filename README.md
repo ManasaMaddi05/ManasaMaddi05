@@ -5,12 +5,12 @@ Summary: Aspiring Data Analyst in data analysis, creating data models, and visua
 
 ## ⚡️ A Few Quick Facts
 #### 🔭 Currently working as an Data Science intern at Wild Genomics
-### 📊 Experienced in Data Analytics, Machine Learning, and Data Visualization.
-### 🖼 Expertise in Dash Framework, Plotly, Python, SQL, and more.
-### 👩‍🏫 Co-founded INKeducation, creating STEM curricula with a focus on AI and Web Development.
-### 🛠 Love working on data-driven projects, especially in Computer Vision and Raspberry Pi DIY projects.
-### 🎓 Pursuing B.S. in Data Science from the University of California, San Diego.
-### 📬 Reach out to me for collaborations or discussions on Python, Data Science, AI, and Machine Learning.
+#### 📊 Experienced in Data Analytics, Machine Learning, and Data Visualization.
+#### 🖼 Expertise in Dash Framework, Plotly, Python, SQL, and more.
+#### 👩‍🏫 Co-founded INKeducation, creating STEM curricula with a focus on AI and Web Development.
+#### 🛠 Love working on data-driven projects, especially in Computer Vision and Raspberry Pi DIY projects.
+#### 🎓 Pursuing B.S. in Data Science from the University of California, San Diego.
+#### 📬 Reach out to me for collaborations or discussions on Python, Data Science, AI, and Machine Learning.
 
 ## 🎉 Fun Facts
 💬 Ask me about: Data Science, Machine Learning, Python, and AI.
