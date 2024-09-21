@@ -1,5 +1,5 @@
 
-# 👩‍💻 Lakshmi Manasa Maddi
+# 👩‍💻 Hi there, I am Manasa :)
 #### Location: Bay Area, CA USA 
 #### Summary: Aspiring Data Analyst in data analysis, creating data models, and visualizations. Passionate about transforming data into actionable insights and leveraging machine learning to solve real-world problems.
 
