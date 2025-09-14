@@ -8,7 +8,7 @@ I’m a Data Science student at UC San Diego with a concentration in AI/ML and a
 ## ⚡️ A Few Quick Facts
 - 📊 I’ve worked on projects that span data analytics, machine learning, and visualization, from forecasting GDP growth to analyzing stress signals in students.  
 - 🖼 I’m comfortable with Python, SQL, and Java, and I use tools like Power BI, Tableau, Excel, and libraries like Pandas, NumPy, and scikit-learn.  
-- 🛠 I enjoy the full pipeline — cleaning messy datasets, building models, and sharing results through dashboards or interactive prototypes.  
+- 🛠 I enjoy the full pipeline from cleaning messy datasets, building models, and sharing results through dashboards or interactive prototypes.  
 - 🎓 Currently pursuing my B.S. in Data Science at UCSD, graduating in 2026.  
 
 ---
