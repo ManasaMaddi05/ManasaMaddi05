@@ -1,35 +1,23 @@
-
-# 👩‍💻 Hi, I’m Manasa 👋
+# 👩‍💻 Hi, I’m Manasa 👋  
 #### Location: Bay Area, CA, USA  
-#### Data Science student passionate about analytics, machine learning, and building data-driven products. I love turning raw data into insights that can drive real decisions and exploring how AI can create meaningful impact.
+
+I’m a Data Science student at UC San Diego with a concentration in AI/ML and a minor in Business Analytics. I’ve always been curious about how raw numbers can be transformed into meaningful insights, whether that’s predicting economic trends, analyzing genomic data, or building tools to make information easier to use.  
+
+---
 
 ## ⚡️ A Few Quick Facts
-#### 📊 Hands-on experience in data analytics, machine learning, and building interactive visualizations.  
-#### 🖼 Skilled in Python, SQL, Java, Power BI, Tableau, MS Excel, and libraries like Pandas, NumPy, and scikit-learn.  
-#### 🛠 Enjoy designing and deploying end-to-end projects: from ETL pipelines to machine learning models and dashboards.  
-#### 🎓 Pursuing a B.S. in Data Science (AI/ML concentration) at the University of California, San Diego, with a minor in Business Analytics.  
-#### 📬 Open to collaborations on data science, AI, and visualization projects, or just to chat about tech and research.  
+- 📊 I’ve worked on projects that span data analytics, machine learning, and visualization, from forecasting GDP growth to analyzing stress signals in students.  
+- 🖼 I’m comfortable with Python, SQL, and Java, and I use tools like Power BI, Tableau, Excel, and libraries like Pandas, NumPy, and scikit-learn.  
+- 🛠 I enjoy the full pipeline — cleaning messy datasets, building models, and sharing results through dashboards or interactive prototypes.  
+- 🎓 Currently pursuing my B.S. in Data Science at UCSD, graduating in 2026.  
+
+---
 
 ## 🎉 Fun Facts
-#### 💬 Ask me about: predictive modeling, deep learning, natural language processing, and data storytelling.  
-#### 🎨 Fun fact: I enjoy prototyping AI-driven applications in Figma and experimenting with Raspberry Pi + computer vision projects.  
-#### 👯 Always excited to collaborate on projects involving AI, predictive analytics, or creative ways of visualizing data.  
+- 💬 Ask me about: predictive modeling, NLP, deep learning, or how to make data actually tell a story.  
+- 🎨 Outside of class, I like prototyping AI ideas in Figma and tinkering with Raspberry Pi projects that combine sensors, vision, and creativity.  
+- 👯 I’m always open to collaborating on projects that use AI or analytics in creative, impactful ways.  
 
+---
 
-
-
-
-<!--
-**ManasaMaddi05/ManasaMaddi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Feel free to reach out if you’d like to connect, collaborate, or just chat about data, AI, and research!  
