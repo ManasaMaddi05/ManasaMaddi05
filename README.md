@@ -6,7 +6,7 @@
 ## ⚡️ A Few Quick Facts
 #### 📊 Hands-on experience in data analytics, machine learning, and building interactive visualizations.  
 #### 🖼 Skilled in Python, SQL, Java, Power BI, Tableau, MS Excel, and libraries like Pandas, NumPy, and scikit-learn.  
-#### 🛠 Enjoy designing and deploying end-to-end projects — from ETL pipelines to machine learning models and dashboards.  
+#### 🛠 Enjoy designing and deploying end-to-end projects: from ETL pipelines to machine learning models and dashboards.  
 #### 🎓 Pursuing a B.S. in Data Science (AI/ML concentration) at the University of California, San Diego, with a minor in Business Analytics.  
 #### 📬 Open to collaborations on data science, AI, and visualization projects, or just to chat about tech and research.  
 
